@@ -1,0 +1,67 @@
+Shift Line Bass IR Pack 
+Cabinet impulse pack for bass guitar 
+
+Shift Line Bass IR Pack is a pack of impulses (IR) that can be used with our A+ CabZone LE cabsim or with any other cabinet simulator, either hardware or software.
+The impulses were recorded and edited by the Shift Line team in St. Petersburg and Novosibirsk over the span of several years. The collection is not very large but it only contains hand-picked impulses. We don’t aim to offer impulses of all cabinets in existence; instead, we offer impulses that actually appeal to us.
+
+Since it is our first time making an impulse pack, it is up to you to judge whether we have succeeded or not.
+This pack is distributed on the Pay-What-You-Want basis: this means you name your own price. No matter how much you pay (if anything), the files are always available for you to download.
+
+— PACK PAGE AND DONATION FORM — 
+
+https://shift-line.com/card.php?device=10108
+
+
+Introduction
+_______________________________________________________________________
+One thing we have to tell you beforehand: the impulses were prepared using various microphones. The number of microphones per impulse also varies: different impulses may have 1, 2 or even 3 mics used to record them. That’s why we chose not to specify the mics used. We aimed to highlight the strengths of each cabinet, and we believe the result to be more important than the means of achieving it. Remember that an impulse is a snapshot of a particular setup and processing, not an actual cabinet. If that floats your boat, feel free to use our impulses!
+
+Manual
+_______________________________________________________________________
+Copy the impulses into the appropriate folders on the SD card of your CabZone LE or Olympic MkIIIS (remember to delete any old files in those folders beforehand).
+
+All impulses in the pack have a 24bit 48kHZ WAVE PCM1 non-compressed format and are adapted to working with our devices (A+ CabZone LE cabsim and Shift Line Olympic MkIIIS tube preamp). Of course, you can also use them in any device or software that supports that format.
+
+
+Details on each impulse
+_______________________________________________________________________
+
+The first impulse group consists of three options for cabinets with four 10-inch speakers.
+
+• 01_EBS_PL_410_by_Shift_Line.wav: This cab is often considered ideal for clean sound (and rightfully so). EBS ProLine is a great cab series equipped with EBS’s own speakers. There’s a peak at 100Hz, while the 2-inch tweeter highlights the clanging of strings with resonance at 2250Hz. This sound is very easy to fit into the mix. 
+
+• 02_Hartke_XL410_by_Shift_Line.wav: A very divisive cabinet with aluminum cone speakers. With this one, Hartke managed to achieve a uniform response over 100–1000Hz. This sound is not for everyone but it’s distinctive. In our experience, it is very easy to EQ in post-processing, and there’s no need to mix in more ultra-low frequencies. The four aluminum 10-inch speakers have their very own character.
+
+• 03_TC_Electronic_BC410_by_Shift_Line.wav: The affordable BC line from TC Electronics has four special 10-inch Eminence speakers and an always-on tweeter. While not the most expensive, this cab is a really good one for playing and recording. The impulse was recorded in a rather non-trivial way: we used two ribbon mics to highlight anything below 500Hz. If you’re looking for a massive low end and a uniform response over 400–6000Hz, this impulse is for you. If there’s enough demand, we might make a couple more variations of the same impulse. 
+
+The second group is for cabs with 15-inch speakers with very characterful mids. We’ve found three great options.
+
+• 04_Ampeg_Heritage_B15_by_Shift_Line.wav: A classic Ampeg cab for a classic bass sound. B15 is a great amp, and its cab is no slouch either. We had no chance to record an impulse of the original but the reissue is just as great. The mids are where it’s at: there’s a strong peak at 100Hz and a scoop at 250Hz. To make things even more vintage, we used a ribbon mic to record the impulse and got an awesome “round” sound. Flatwounds and B15 are a true power couple. As an added bonus, you won’t have to deal with the rumbling top cover of the cab (which is probably the only annoying thing about the otherwise awesome actual cab).
+
+• 05_Sunn_200s_by_Shift_Line.wav: You may have already heard a Sunn 200s impulse that comes among the stock impulses for CabZone LE and Olympic MkIIIS. However, this impulse is a bit different. It was recorded using different mics and mic positions. The resulting character is a bit more aggressive and full-bodied than the other impulse’s. It also has a slightly more open low end, and its response goes 10Hz lower. At the end of the day, it’s still the same awesome rock cab with two 15-inch speakers. 
+
+• 06_Mesa_RR215_by_Shift_Line.wav: Mesa Road Ready 21, a knight with the visor down and ready for battle. This cab has a very bright modern character — a great antithesis to Sunn and Ampeg cabs. Its scooped mids and bright tweeter ensure a biting modern tone. The cab is great both for clean and distorted sounds — and layering clean sounds with dirt works even better! 
+
+The 8x10 behemoth has a special place on the list.
+
+• 07_Ampeg_SVT-810E_by_Shift_Line.wav: Another variation of an impulse that has appeared among the stock impulses of the CabZone and the Olympic MkIIIS. This time, a different set of mics was used, and they were positioned in a slightly different way. The lows are a bit boosted, while the highs are a bit scooped.This way, there are no annoying highs, and the overall sound is massive. 
+
+Next come three “experimental” impulses. Much can be done to impulses; what we did in impulses 08–10 was use guitar cab speakers for mid- and high-frequency response and leave the low end direct. Or, to be exact, not quite direct but the way they do it in studios: a mild cutoff of anything below 40Hz and an almost uniform response till 1000Hz. Generally speaking, these impulses are a sum of a DI low frequency signal and a guitar cabinet signal. There are no phase issues, so the notes you play won’t suddenly disappear. 
+
+• 08_ElectroVoice_EVM12L_by_Shift_Line.wav: ElectroVoice EVM12L is a legendary speaker used both in bass and in guitar cabs. Its response is mixed with the clean signal in this impulse. We used an Oktava 012 mic in several positions (to emulate a large cab) and mixed them in with the main position: at the center of the speaker. There’s a mild roll-off below 30Hz.
+
+• 09_Orange_PPC212_bass_edition_by_Shift_Line.wav: An impulse of Jim Root’s signature cab adapted for bass. The impulse was recorded through a Marshall power amp with EL84 tubes; presence is boosted a little, and “deep” is engaged. We didn’t have to mix in much DI signal: it already sounded like true rock’n’roll. There’s a roll-off below 40Hz along with the traditional Marshall peak at 80Hz.
+
+• 10_Celestion_V30_bass_edition_by_Shift_Line.wav: A classic guitar solution used for bass. There’s a roll-off below 30Hz. The guitar cab gets prominently mixed in starting around 700Hz. We used a Sennheiser 906e mic positioned at the center of the speaker, 15cm from the cone. This impulse works great for guitar distortion pedals used on bass.
+
+For dessert, we’ve prepared a couple of impulses already featured in CabZone LE and Olympic MkIIIS but with slight changes in frequency response. The changes might seem subtle but they are there. Also, it’s a great way to get a couple of impulses from our devices if you don’t own them.
+
+• 11_Sunn_200s_Olympic_MkIIIS_edition2.wav: A slightly changed impulse from CabZone LE / Olympic MkIIIS. High frequencies have been altered. Other than that, it’s the same rock box.
+
+• 12_Ampeg_SVT-810E_Olympic_MkIIIS_edition2.wav: Just like in the one before it, the highs in this impulse have been altered (towards reduction this time). This one feels universally usable to us — perhaps it will become your main one, too.
+
+
+Our devices where the impulses can be used
+_______________________________________________________________________
+A+ CabZone LE — shift-line.com/cabzone
+Shift Line Olympic MkIIIS — shift-line.com/olympic
