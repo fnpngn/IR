@@ -30,9 +30,22 @@ These are free low quality samples for 22$ full [IR packs](https://dynax-japan.c
 Split into folders and renamed for ease of use (DYNAX MaseBoo RECTI212 SampleA -> DY MaseBoo RECTI212 A)  
 Most cab names are altered, but you can look the original specs up on their [page](https://dynax-japan.com/en/sale/ir/)
 
+### ML Sound Lab 2025 Free IR
+Free IR calibration pack from ML sound lab. Not sure if it's that usable, but it still works.   
+Not a traditional IR, has some separate amp color tones and what not: check the PDF for details
+
+### Allure pack
+https://line6.com/allure/   
+Old free IR pack from line6. just some cool cabs
+
 ### Miscellaneous
+#### ML Sound Lab Djentle Keyan
+Solid IR that supposedly is a mix of the original Periphery 3 cab used for the record && the Neural DSP Meshuggah Fortin Nameless plugin IR   
+The only problem is that I couldn't find the original MLSL download in 2026, so this is from [this guy's](https://www.youtube.com/watch?v=yni7F4ofopc) google drive   
+Comes in 44, 48 and 96 kHz
 #### ML Sound Lab's Best IR
-Sounds ok https://www.youtube.com/watch?v=BI6rovO03DA
+Sounds ok https://www.youtube.com/watch?v=BI6rovO03DA   
+Supposedly based on a Mesa 4x12 with V30s
 #### 5150 IC V1
 #### 5150 IC V2
 #### Mesa Modern IC
