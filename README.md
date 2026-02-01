@@ -40,14 +40,15 @@ Old free IR pack from line6. just some cool cabs
 
 ### Miscellaneous
 #### ML Sound Lab Djentle Keyan
-Solid IR that supposedly is a mix of the original Periphery 3 cab used for the record && the Neural DSP Meshuggah Fortin Nameless plugin IR   
+Solid IR that is supposedly a mix of the original Periphery 3 cab used for the record && the Neural DSP Meshuggah Fortin Nameless plugin IR   
 The only problem is that I couldn't find the original MLSL download in 2026, so this is from [this guy's](https://www.youtube.com/watch?v=yni7F4ofopc) google drive   
-Comes in 44, 48 and 96 kHz
+Comes in 44, 48 and 96 kHz wave files
 #### ML Sound Lab's Best IR
 Sounds ok https://www.youtube.com/watch?v=BI6rovO03DA   
 Supposedly based on a Mesa 4x12 with V30s
 #### 5150 IC V1
 #### 5150 IC V2
 #### Mesa Modern IC
+5150 and Mesa Modern are free IR curves that come from this release of [NaLex Ninja preamp VST](https://nalexplugins.blogspot.com/2019/09/ninja-amp-preamp.html) (links above the version list)
 #### Mesa C414 XL2
 By [Taylor Danley](https://www.youtube.com/channel/UCKyIN3WgOtdp-35rpgbFINA), no idea where it came from
