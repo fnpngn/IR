@@ -38,6 +38,15 @@ Not a traditional IR, has some separate amp color tones and what not: check the 
 https://line6.com/allure/   
 Old free IR pack from line6. just some cool cabs
 
+### Free Impulse Responses Modern Metal
+https://modernmusicsolutions.com/blogs/free/free-ir
+
+### FREE BASS IR Pack
+https://modernmusicsolutions.com/blogs/free/free-ir
+
+### SMG UK V30
+Free IRs from Glenn Fricker's (https://www.youtube.com/@SpectreSoundStudios) [mailing list](https://www.youtube.com/watch?v=luPepJlFQCI)
+
 ### Miscellaneous
 #### ML Sound Lab Djentle Keyan
 Solid IR that is supposedly a mix of the original Periphery 3 cab used for the record && the Neural DSP Meshuggah Fortin Nameless plugin IR   
