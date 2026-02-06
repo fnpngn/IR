@@ -44,9 +44,6 @@ https://modernmusicsolutions.com/blogs/free/free-ir
 ### FREE BASS IR Pack
 https://modernmusicsolutions.com/blogs/free/free-ir
 
-### SMG UK V30
-Free IRs from Glenn Fricker's (https://www.youtube.com/@SpectreSoundStudios) [mailing list](https://www.youtube.com/watch?v=luPepJlFQCI)
-
 ### Miscellaneous
 #### ML Sound Lab Djentle Keyan
 Solid IR that is supposedly a mix of the original Periphery 3 cab used for the record && the Neural DSP Meshuggah Fortin Nameless plugin IR   
@@ -61,3 +58,8 @@ Supposedly based on a Mesa 4x12 with V30s
 5150 and Mesa Modern are free IR curves that come from this release of [NaLex Ninja preamp VST](https://nalexplugins.blogspot.com/2019/09/ninja-amp-preamp.html) (links above the version list)
 #### Mesa C414 XL2
 By [Taylor Danley](https://www.youtube.com/channel/UCKyIN3WgOtdp-35rpgbFINA), no idea where it came from
+#### SMG UK V30
+Free IRs from Glenn Fricker's (https://www.youtube.com/@SpectreSoundStudios) [mailing list](https://www.youtube.com/watch?v=luPepJlFQCI)
+#### FrickIR
+Another free IR from Glenn Fricker (https://www.youtube.com/@SpectreSoundStudios)   
+Mojotone Slammins 2X12 with Mojotone Watchtower Speakers
